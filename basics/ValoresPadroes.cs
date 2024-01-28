@@ -14,6 +14,6 @@ namespace ProgamandoEmCSharp.basics
         decimal var3=0;
         bool var4= false;
         char var5='\0';
-        string var6=""
+        string var6="";
     }
 }

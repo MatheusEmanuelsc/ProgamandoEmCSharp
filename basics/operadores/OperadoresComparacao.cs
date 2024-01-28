@@ -14,11 +14,11 @@ namespace ProgamandoEmCSharp.basics.operadores
         int y =2;
 
 
-        bool result = x==y// e igual?
-        result = x!=y// e diferente?
-        result = x>y// e maior?
-        result = x<y// e menor?
-        result = x>=y// e maior ou igual?
-        result = x<=y// e menor ou igual?
+        bool result = x==y;// e igual?
+        result = x !=y;// e diferente?
+        result = x >y;// e maior?
+        result = x <y;// e menor?
+        result = x >= y;// e maior ou igual?
+        result = x <=y ;// e menor ou igual?
     }
 }

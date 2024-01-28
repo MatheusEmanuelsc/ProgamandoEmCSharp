@@ -30,7 +30,7 @@ namespace ProgamandoEmCSharp.basics
         // tbm e possivel utilizar a palavra reservada Var para criar uma variavel
         // porem vc e obrigado a inicializar 
 
-        var numero2=2;
+        var numero3=2;
 
 
 

@@ -21,10 +21,10 @@ namespace ProgamandoEmCSharp.basics.tipos
         ushort meuShort= 1;//aceita apenas positivos
 
         int meuInt=-1;//aceita positivos e negativos
-        uint meuUint=1//aceita apenas positivos
+        uint meuUint=1;//aceita apenas positivos
 
-        long meuLong=-1//aceita positivos e ngativos
-        ulong meuUlong=1//aceita apenas positivos
+        long meuLong=-1;//aceita positivos e ngativos
+        ulong meuUlong=1;//aceita apenas positivos
 
 
         //------------------------------------ Numeros Reais-------------------------------------------
