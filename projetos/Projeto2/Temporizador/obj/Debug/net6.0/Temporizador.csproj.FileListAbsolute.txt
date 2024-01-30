@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/bin/Debug/net6.0/Temporizador
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/bin/Debug/net6.0/Temporizador.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/bin/Debug/net6.0/Temporizador.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/bin/Debug/net6.0/Temporizador.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/bin/Debug/net6.0/ref/Temporizador.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/bin/Debug/net6.0/Temporizador.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/ref/Temporizador.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto2/Temporizador/obj/Debug/net6.0/Temporizador.genruntimeconfig.cache
