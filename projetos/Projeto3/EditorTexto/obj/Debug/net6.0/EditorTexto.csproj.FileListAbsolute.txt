@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/bin/Debug/net6.0/EditorTexto
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/bin/Debug/net6.0/EditorTexto.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/bin/Debug/net6.0/EditorTexto.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/bin/Debug/net6.0/EditorTexto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/bin/Debug/net6.0/ref/EditorTexto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/bin/Debug/net6.0/EditorTexto.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/ref/EditorTexto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/projetos/Projeto3/EditorTexto/obj/Debug/net6.0/EditorTexto.genruntimeconfig.cache
