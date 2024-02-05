@@ -11,5 +11,6 @@ namespace ProgamandoEmCSharp.average.String
         var texto = new StringBuilder();
         texto.Append("Este texto é um teste");
         
+    
     }
 }
