@@ -67,4 +67,3 @@ static void Salvar(string text){
 }
 
 
-
