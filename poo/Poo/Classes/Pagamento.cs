@@ -29,7 +29,16 @@ namespace Poo.Classes
         }
         //Virtual permite quem um metodo possa ser sobreescrito
 
-        
+        public delegate void Delegando(string pago);//ao adc delegate essa função permite que outra função para implementar ela deis que assinatura seja a mesma não precisa ter nome igual
+        //Para implementar
+        /*
+            quando vc tiver o objeto basta chamar ela ai ao inves de passar o parametro vc passa a função
+
+            Pessoa.Delegando(FuncaoQueimplementou()); ai para usar depois e so
+            Delegando("seilar);
+
+            
+        */
     }
 
     class PagamentoBoleto : Pagamento{
@@ -80,5 +89,12 @@ namespace Poo.Classes
 
     public partial class Divide{
         //Para fazer uma classe parcial ou seja 2 classes com mesmo nome e mesmo namespace vc pode divide em ela em duas  em 2 arquivos diferente caso precise que no final sera  intepretado como apenas uma
+    }
+
+    public abstract class Abstrato 
+    {//classe abstrata ou seja uma classe que não vai ser instanciada apenas herdada
+
+    //os metodos podem ter uma implementação base
+        
     }
 }
