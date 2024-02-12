@@ -19,6 +19,9 @@ Pessoa pessoa2 = new("seilar",3);
 
 Console.WriteLine($"E igual? {pessoa1.Equals(pessoa2)}");//fazendo a comparação
 
+//Criando Lista
+IEnumerable<Pessoa> pessoas = new List<Pessoa>();
+
 
 public class Pessoa : IEquatable<Pessoa>{//Para comparar onjetos e necessario que implemente interface
     public string Nome { get; set; }
@@ -35,5 +38,7 @@ public class Pessoa : IEquatable<Pessoa>{//Para comparar onjetos e necessario qu
         return  (Nome == other.Nome) && (Numero== other.Numero);//comparação desejada
     }
 }
+
+
 
 
