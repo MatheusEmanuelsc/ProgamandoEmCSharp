@@ -1,5 +1,0 @@
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/obj/Debug/net6.0/ProgamandoEmCSharp.csproj.AssemblyReference.cache
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/obj/Debug/net6.0/ProgamandoEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/obj/Debug/net6.0/ProgamandoEmCSharp.AssemblyInfoInputs.cache
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/obj/Debug/net6.0/ProgamandoEmCSharp.AssemblyInfo.cs
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/obj/Debug/net6.0/ProgamandoEmCSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/bin/Debug/net6.0/01-LeituraEscritaDados
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/bin/Debug/net6.0/01-LeituraEscritaDados.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/bin/Debug/net6.0/01-LeituraEscritaDados.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/bin/Debug/net6.0/01-LeituraEscritaDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/bin/Debug/net6.0/ref/01-LeituraEscritaDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/bin/Debug/net6.0/01-LeituraEscritaDados.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/ref/01-LeituraEscritaDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/obj/Debug/net6.0/01-LeituraEscritaDados.genruntimeconfig.cache
