@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/TiposDados/TiposDados.csproj",
-      "projectName": "TiposDados",
-      "projectPath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/TiposDados/TiposDados.csproj",
+      "projectUniqueName": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/03-TiposDados.csproj",
+      "projectName": "03-TiposDados",
+      "projectPath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/03-TiposDados.csproj",
       "packagesPath": "/home/matheusemanuel/.nuget/packages/",
-      "outputPath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/TiposDados/obj/",
+      "outputPath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/matheusemanuel/.nuget/NuGet/NuGet.Config"

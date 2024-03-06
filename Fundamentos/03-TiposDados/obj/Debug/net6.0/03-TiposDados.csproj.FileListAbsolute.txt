@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/bin/Debug/net6.0/03-TiposDados
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/bin/Debug/net6.0/03-TiposDados.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/bin/Debug/net6.0/03-TiposDados.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/bin/Debug/net6.0/03-TiposDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/bin/Debug/net6.0/ref/03-TiposDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/bin/Debug/net6.0/03-TiposDados.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/ref/03-TiposDados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/03-TiposDados/obj/Debug/net6.0/03-TiposDados.genruntimeconfig.cache
