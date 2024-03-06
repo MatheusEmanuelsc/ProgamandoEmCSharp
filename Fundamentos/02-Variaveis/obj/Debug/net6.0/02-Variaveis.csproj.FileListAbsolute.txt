@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/bin/Debug/net6.0/02-Variaveis
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/bin/Debug/net6.0/02-Variaveis.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/bin/Debug/net6.0/02-Variaveis.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/bin/Debug/net6.0/02-Variaveis.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/bin/Debug/net6.0/ref/02-Variaveis.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/bin/Debug/net6.0/02-Variaveis.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/ref/02-Variaveis.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/obj/Debug/net6.0/02-Variaveis.genruntimeconfig.cache
