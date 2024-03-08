@@ -1,4 +1,6 @@
-﻿// -------------------------------------Tipos Numericos---------------------------------------------------------
+﻿//+++++++++++++++++++++++++++++++++++++ TIPOS PRIMITIVOS +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// -------------------------------------Tipos Numericos---------------------------------------------------------
 
 // Tipos De dados Integrais
 
@@ -67,6 +69,25 @@ bool valorBool;
 //Tipo caracter
 //aceita apenas 1 unico caracter
 //valor padrão '\0 e a representação em unicode para nulo
-char valorChar;
+char valorChar='a';
 
 // quando for por o valor  no char dera utilizar aspas simples
+
+
+//+++++++++++++++++++++++++++++++++++++++++TIPO REFERENCIA ++++++++++++++++++++++++++++++++++++++++++
+
+
+
+// Tipo String
+// Para tulizar use aspas duplas
+
+string valorString="seilar";
+
+//Tipo Object
+// aceita todos os tipos poém não e uma boa pratica utilizalo
+// além do que vai ficar convertendo os valores toda hora
+object valorObject;
+
+//na maioria dos casos se comporta como object
+// ele resolvido em tempo de execução
+dynamic valorDynamic;
