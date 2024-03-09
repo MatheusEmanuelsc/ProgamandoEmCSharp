@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/bin/Debug/net6.0/04-DataHora
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/bin/Debug/net6.0/04-DataHora.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/bin/Debug/net6.0/04-DataHora.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/bin/Debug/net6.0/04-DataHora.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/bin/Debug/net6.0/ref/04-DataHora.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/bin/Debug/net6.0/04-DataHora.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/ref/04-DataHora.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/obj/Debug/net6.0/04-DataHora.genruntimeconfig.cache

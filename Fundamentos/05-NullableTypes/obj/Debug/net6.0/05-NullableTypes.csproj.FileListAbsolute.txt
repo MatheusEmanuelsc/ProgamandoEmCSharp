@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/bin/Debug/net6.0/05-NullableTypes
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/bin/Debug/net6.0/05-NullableTypes.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/bin/Debug/net6.0/05-NullableTypes.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/bin/Debug/net6.0/05-NullableTypes.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/bin/Debug/net6.0/ref/05-NullableTypes.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/bin/Debug/net6.0/05-NullableTypes.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.csproj.AssemblyReference.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/ref/05-NullableTypes.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/05-NullableTypes/obj/Debug/net6.0/05-NullableTypes.genruntimeconfig.cache
