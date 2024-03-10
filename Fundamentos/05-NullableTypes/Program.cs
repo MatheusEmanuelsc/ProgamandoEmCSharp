@@ -19,3 +19,6 @@ int num2= num ?? 0;
     // false se não tiver um valor(null)
 
 // value exibe o valor atribuido
+
+// Caso vc precise utilizar um metodo anulavel em um metodo que pode ou não causar um erro adcione ? na variavel
+// Ex: nome?.ToUpper()

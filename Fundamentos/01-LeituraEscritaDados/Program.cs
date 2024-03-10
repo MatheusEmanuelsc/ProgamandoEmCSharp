@@ -16,7 +16,7 @@ Console.WriteLine($"2+2={2+2}");
 // existe os place holders que não e forma mais mordena utilizada
 
 //+++++++++++++++++++++++++++++++ Entrada De Dados +++++++++++++++++++++++++ 
-// ler o proximo carcterer
+// ler o proximo caracterer
 Console.Read();
 
 // ler uma linha
@@ -25,3 +25,6 @@ Console.ReadLine();
 
 // ler a tecla que foi digitada
 Console.ReadKey();
+
+//para limpar o console
+Console.Clear();
