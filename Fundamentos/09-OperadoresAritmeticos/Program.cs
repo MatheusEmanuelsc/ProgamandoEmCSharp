@@ -42,4 +42,5 @@ c %= a; // Operador de Atribuição de Módulo
 Console.WriteLine($"Operador de Atribuição de Módulo: c %= a, c = {c}");
 
 
+
 // C# Tem suporte a classe Math

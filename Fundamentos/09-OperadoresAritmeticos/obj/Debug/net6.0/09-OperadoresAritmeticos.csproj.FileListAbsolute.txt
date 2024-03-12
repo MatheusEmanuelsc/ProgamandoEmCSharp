@@ -2,9 +2,7 @@
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/bin/Debug/net6.0/09-OperadoresAritmeticos.deps.json
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/bin/Debug/net6.0/09-OperadoresAritmeticos.runtimeconfig.json
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/bin/Debug/net6.0/09-OperadoresAritmeticos.dll
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/bin/Debug/net6.0/ref/09-OperadoresAritmeticos.dll
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/bin/Debug/net6.0/09-OperadoresAritmeticos.pdb
-/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.csproj.AssemblyReference.cache
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.AssemblyInfoInputs.cache
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.AssemblyInfo.cs
@@ -13,3 +11,5 @@
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/ref/09-OperadoresAritmeticos.dll
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.pdb
 /home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/09-OperadoresAritmeticos.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/obj/Debug/net6.0/refint/09-OperadoresAritmeticos.dll

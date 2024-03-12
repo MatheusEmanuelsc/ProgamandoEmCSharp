@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bQvoBHRdfn8hIHKfBFeqHga55CgXUkWP18GUQj+I5xOtJCbWjAODXwt5M5+cxziUbMrD8CMaQFpMwchxRzTHAA==",
+  "dgSpecHash": "JWmySAvj7N7Fy/mbg2Y8hNorG33646yQczAx9Cz6PqpCvUUMVPElpCosBoRDYR5ZwmUCbZIIF7F89oTnOxb0JA==",
   "success": true,
   "projectFilePath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/09-OperadoresAritmeticos/09-OperadoresAritmeticos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.27/microsoft.netcore.app.host.linux-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
