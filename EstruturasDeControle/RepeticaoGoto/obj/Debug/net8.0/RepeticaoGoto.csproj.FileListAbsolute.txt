@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/bin/Debug/net8.0/RepeticaoGoto
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/bin/Debug/net8.0/RepeticaoGoto.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/bin/Debug/net8.0/RepeticaoGoto.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/bin/Debug/net8.0/RepeticaoGoto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/bin/Debug/net8.0/RepeticaoGoto.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/refint/RepeticaoGoto.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/RepeticaoGoto.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoGoto/obj/Debug/net8.0/ref/RepeticaoGoto.dll

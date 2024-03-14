@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/bin/Debug/net8.0/IfElse
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/bin/Debug/net8.0/IfElse.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/bin/Debug/net8.0/IfElse.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/bin/Debug/net8.0/IfElse.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/bin/Debug/net8.0/IfElse.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/refint/IfElse.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/IfElse.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/IfElse/obj/Debug/net8.0/ref/IfElse.dll

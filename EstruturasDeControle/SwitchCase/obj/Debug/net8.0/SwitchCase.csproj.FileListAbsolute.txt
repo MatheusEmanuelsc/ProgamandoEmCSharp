@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/bin/Debug/net8.0/SwitchCase
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/bin/Debug/net8.0/SwitchCase.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/bin/Debug/net8.0/SwitchCase.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/bin/Debug/net8.0/SwitchCase.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/bin/Debug/net8.0/SwitchCase.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/refint/SwitchCase.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/SwitchCase/obj/Debug/net8.0/ref/SwitchCase.dll
