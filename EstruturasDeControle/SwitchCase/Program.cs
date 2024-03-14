@@ -25,3 +25,4 @@ switch (nota)
 
 // Não precisa de chaves
 // o break e obrigatorio em todos os blocos
+// break serve para sair do fluxo

@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/bin/Debug/net8.0/RepeticaoWhile
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/bin/Debug/net8.0/RepeticaoWhile.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/bin/Debug/net8.0/RepeticaoWhile.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/bin/Debug/net8.0/RepeticaoWhile.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/bin/Debug/net8.0/RepeticaoWhile.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/refint/RepeticaoWhile.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/RepeticaoWhile.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoWhile/obj/Debug/net8.0/ref/RepeticaoWhile.dll

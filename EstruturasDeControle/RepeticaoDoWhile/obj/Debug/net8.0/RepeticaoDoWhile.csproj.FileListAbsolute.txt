@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/bin/Debug/net8.0/RepeticaoDoWhile
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/bin/Debug/net8.0/RepeticaoDoWhile.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/bin/Debug/net8.0/RepeticaoDoWhile.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/bin/Debug/net8.0/RepeticaoDoWhile.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/bin/Debug/net8.0/RepeticaoDoWhile.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/refint/RepeticaoDoWhile.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/RepeticaoDoWhile.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/EstruturasDeControle/RepeticaoDoWhile/obj/Debug/net8.0/ref/RepeticaoDoWhile.dll
