@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFh++muQXjRrSISCxhEqKBSXLJXOBUhxY/fNJBiHeSu/9Z7pYXvB3mzZ71hec9XvYLxGWqG3o3BlCUbikQou+w==",
+  "success": true,
+  "projectFilePath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/01-LeituraEscritaDados/01-LeituraEscritaDados.csproj",
+  "expectedPackageFiles": [
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/matheusemanuel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

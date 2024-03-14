@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nIp1h5SrVu6Oi5S6ZgzKMd3JZaXAeGLxj2KRLK9Pt8g09Dpo2lpA5dON9Zo+mTTA80TYRxZv1dU5uylIKL9faA==",
+  "success": true,
+  "projectFilePath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/04-DataHora/04-DataHora.csproj",
+  "expectedPackageFiles": [
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/matheusemanuel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

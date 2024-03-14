@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "103/Y2KmFHdDfkEE1o2mTGU+7TENyOO5lqNl8A+cpC9+g1btOGptmfmwY1BhNyVk/MvmFyO++ZQhissR9lCRyQ==",
+  "success": true,
+  "projectFilePath": "/home/matheusemanuel/Documentos/ProgamandoEmCSharp/Fundamentos/02-Variaveis/02-Variaveis.csproj",
+  "expectedPackageFiles": [
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/matheusemanuel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

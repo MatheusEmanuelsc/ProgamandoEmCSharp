@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/bin/Debug/net8.0/PrimeiraClasse
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/bin/Debug/net8.0/PrimeiraClasse.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/bin/Debug/net8.0/PrimeiraClasse.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/bin/Debug/net8.0/PrimeiraClasse.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/bin/Debug/net8.0/PrimeiraClasse.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/refint/PrimeiraClasse.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/PrimeiraClasse.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/PrimeiraClasse/obj/Debug/net8.0/ref/PrimeiraClasse.dll
