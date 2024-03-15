@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/bin/Debug/net8.0/SobrecargaMetodo
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/bin/Debug/net8.0/SobrecargaMetodo.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/bin/Debug/net8.0/SobrecargaMetodo.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/bin/Debug/net8.0/SobrecargaMetodo.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/bin/Debug/net8.0/SobrecargaMetodo.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/refint/SobrecargaMetodo.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/SobrecargaMetodo.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/SobrecargaMetodo/obj/Debug/net8.0/ref/SobrecargaMetodo.dll
