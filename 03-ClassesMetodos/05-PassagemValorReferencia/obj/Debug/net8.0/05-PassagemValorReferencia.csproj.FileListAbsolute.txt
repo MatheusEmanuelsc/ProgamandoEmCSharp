@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/bin/Debug/net8.0/05-PassagemValorReferencia
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/bin/Debug/net8.0/05-PassagemValorReferencia.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/bin/Debug/net8.0/05-PassagemValorReferencia.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/bin/Debug/net8.0/05-PassagemValorReferencia.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/bin/Debug/net8.0/05-PassagemValorReferencia.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/refint/05-PassagemValorReferencia.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/05-PassagemValorReferencia.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/05-PassagemValorReferencia/obj/Debug/net8.0/ref/05-PassagemValorReferencia.dll
