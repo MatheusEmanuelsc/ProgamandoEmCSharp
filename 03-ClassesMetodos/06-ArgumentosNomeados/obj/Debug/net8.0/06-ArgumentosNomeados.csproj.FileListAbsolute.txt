@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/bin/Debug/net8.0/06-ArgumentosNomeados
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/bin/Debug/net8.0/06-ArgumentosNomeados.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/bin/Debug/net8.0/06-ArgumentosNomeados.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/bin/Debug/net8.0/06-ArgumentosNomeados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/bin/Debug/net8.0/06-ArgumentosNomeados.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/refint/06-ArgumentosNomeados.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/06-ArgumentosNomeados.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/06-ArgumentosNomeados/obj/Debug/net8.0/ref/06-ArgumentosNomeados.dll
