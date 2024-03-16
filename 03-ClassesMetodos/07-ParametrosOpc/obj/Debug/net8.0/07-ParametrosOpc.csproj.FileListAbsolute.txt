@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.sourcelink.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/bin/Debug/net8.0/07-ParametrosOpc
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/bin/Debug/net8.0/07-ParametrosOpc.deps.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/bin/Debug/net8.0/07-ParametrosOpc.runtimeconfig.json
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/bin/Debug/net8.0/07-ParametrosOpc.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/bin/Debug/net8.0/07-ParametrosOpc.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/refint/07-ParametrosOpc.dll
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.pdb
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/07-ParametrosOpc.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/ProgamandoEmCSharp/03-ClassesMetodos/07-ParametrosOpc/obj/Debug/net8.0/ref/07-ParametrosOpc.dll
