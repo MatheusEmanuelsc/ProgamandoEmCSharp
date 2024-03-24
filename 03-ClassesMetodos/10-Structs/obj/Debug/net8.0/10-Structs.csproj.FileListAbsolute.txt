@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.sourcelink.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/bin/Debug/net8.0/10-Structs
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/bin/Debug/net8.0/10-Structs.deps.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/bin/Debug/net8.0/10-Structs.runtimeconfig.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/bin/Debug/net8.0/10-Structs.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/bin/Debug/net8.0/10-Structs.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/refint/10-Structs.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/10-Structs.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/03-ClassesMetodos/10-Structs/obj/Debug/net8.0/ref/10-Structs.dll
