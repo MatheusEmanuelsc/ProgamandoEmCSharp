@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.sourcelink.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/bin/Debug/net8.0/02-TiposRetorno
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/bin/Debug/net8.0/02-TiposRetorno.deps.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/bin/Debug/net8.0/02-TiposRetorno.runtimeconfig.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/bin/Debug/net8.0/02-TiposRetorno.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/bin/Debug/net8.0/02-TiposRetorno.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/refint/02-TiposRetorno.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/02-TiposRetorno.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/11-ProgramacaoAssicrona/02-TiposRetorno/obj/Debug/net8.0/ref/02-TiposRetorno.dll
