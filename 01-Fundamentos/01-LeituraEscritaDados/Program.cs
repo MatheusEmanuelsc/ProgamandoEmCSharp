@@ -23,7 +23,7 @@ Console.Read();
 Console.ReadLine();
 //Obs ele recebe o valor em string caso precise de outro valor tipo int ou double tem que fazer o parse
 
-// ler a tecla que foi digitada
+// ler a tecla que foi digitada 
 Console.ReadKey();
 
 //para limpar o console
