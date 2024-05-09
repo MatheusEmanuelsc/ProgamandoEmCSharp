@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.sourcelink.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/bin/Debug/net8.0/01-CocatenacaoString
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/bin/Debug/net8.0/01-CocatenacaoString.deps.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/bin/Debug/net8.0/01-CocatenacaoString.runtimeconfig.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/bin/Debug/net8.0/01-CocatenacaoString.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/bin/Debug/net8.0/01-CocatenacaoString.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/refint/01-CocatenacaoString.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/01-CocatenacaoString.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/01-Strings/obj/Debug/net8.0/ref/01-CocatenacaoString.dll

@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/bin/Debug/net8.0/02-FormatandoValoresMonetarios
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/bin/Debug/net8.0/02-FormatandoValoresMonetarios.deps.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/bin/Debug/net8.0/02-FormatandoValoresMonetarios.runtimeconfig.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/bin/Debug/net8.0/02-FormatandoValoresMonetarios.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/bin/Debug/net8.0/02-FormatandoValoresMonetarios.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.sourcelink.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/refint/02-FormatandoValoresMonetarios.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/02-FormatandoValoresMonetarios.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/02-FormatandoValoresMonetarios/obj/Debug/net8.0/ref/02-FormatandoValoresMonetarios.dll

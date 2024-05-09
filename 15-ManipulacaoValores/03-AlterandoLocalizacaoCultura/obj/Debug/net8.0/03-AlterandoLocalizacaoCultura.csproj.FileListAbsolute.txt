@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/bin/Debug/net8.0/03-AlterandoLocalizacaoCultura
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/bin/Debug/net8.0/03-AlterandoLocalizacaoCultura.deps.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/bin/Debug/net8.0/03-AlterandoLocalizacaoCultura.runtimeconfig.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/bin/Debug/net8.0/03-AlterandoLocalizacaoCultura.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/bin/Debug/net8.0/03-AlterandoLocalizacaoCultura.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.sourcelink.json
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/refint/03-AlterandoLocalizacaoCultura.dll
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.pdb
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/03-AlterandoLocalizacaoCultura.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/Biblioteca/ProgamandoEmCSharp/15-ManipulacaoValores/03-AlterandoLocalizacaoCultura/obj/Debug/net8.0/ref/03-AlterandoLocalizacaoCultura.dll
