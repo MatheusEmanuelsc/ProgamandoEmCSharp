@@ -1,4 +1,4 @@
-﻿```csharp
+﻿// ```csharp
 // Resumo Completo sobre Métodos de Extensão em C#
 
 /*
