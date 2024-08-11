@@ -1,6 +1,4 @@
-Aqui está o resumo e tutorial de testes unitários em C#, com um índice para facilitar a navegação.
 
----
 
 # Testes Unitários em C#
 
